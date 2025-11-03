@@ -1,0 +1,5 @@
+{
+  "name": "TOEIC Vocabulary Typing Practice",
+  "description": "An application to practice typing essential TOEIC vocabulary. Select a topic, type the English word, and the Vietnamese translation will appear upon correct entry. Improve both your typing speed and vocabulary retention.",
+  "requestFramePermissions": []
+}
